@@ -1,0 +1,120 @@
+body{
+background-color: white;
+}
+h1{
+font-weight: 500px;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 15%;
+margin-top: 10%;
+}
+p{
+    margin-left: 15%;
+    font-weight: lighter;
+}
+h2{
+font-weight: bolder;
+font-size: 100px;
+font-family: sans-serif;
+margin-left: 14%;
+color: mediumblue;
+background-position: bottom;
+
+}
+h3{
+    font-weight: bolder;
+    font-size: 100px;
+    font-family: sans-serif;
+    margin-left: 42%;
+    margin-top: -16.1%;
+    color: mediumblue;
+}
+h4{
+    font-weight: bolder;
+    font-size: 100px;
+    font-family: sans-serif;
+    margin-left: 69.5%;
+    margin-top: -17.5%; 
+    color: mediumblue;
+}
+.box1{
+    background-color: ivory;
+    margin-left: 16.3%;
+    width: 300px;
+    margin-top: -20%;
+    border: 1px solid darkgray;
+    box-shadow: 2px 4px 6px;
+    position: relative;
+    height: 20.6%;
+}
+.box2{
+    background-color: ivory;
+    margin-left: 43.8%;
+    width: 300px;
+    margin-top: -10.7%;
+    border: 1px solid darkgray;
+    box-shadow: 2px 4px 6px;
+    position: relative;
+    height: 20.6%;
+}
+.box3{
+    background-color: ivory;
+    margin-left: 71.1%;
+    width: 300px;
+    margin-top: -10.7%;
+    border: 1px solid darkgray;
+    box-shadow: 2px 4px 6px;
+    position: relative;
+    height: 20.6%;
+}
+
+.box1 h5{
+    padding-left:15%;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 5%;
+}
+.box1 p{
+    padding-left: -25%;
+    margin-top: -8%;
+}
+.box1 small{
+    color: mediumblue;
+    padding-left: 15%;
+    font-size: 16px;
+}
+.box2 h6{
+    padding-left: 15%;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 2%;
+}
+.box2 p{
+    padding-left: -3%;
+    margin-top: -12%;
+}
+.box2 small{
+    color: mediumblue;
+    padding-left: 15%;
+    font-size: 16px;
+}
+.box3 h6{
+    padding-left: 15%;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 2%;
+}
+.box3 p{
+    padding-left: -3%;
+    margin-top: -12%;
+}
+.box3 small{
+    color: mediumblue;
+    padding-left: 15%;
+    font-size: 16px;
+}
+a {
+    margin-left: 50%;
+    
+}
+
